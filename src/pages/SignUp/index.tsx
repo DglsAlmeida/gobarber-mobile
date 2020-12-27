@@ -13,7 +13,7 @@ import {
 } from 'react-native';
 import Icon from 'react-native-vector-icons/Feather';
 import * as Yup from 'yup';
-import api from '../services/api';
+import api from '../../services/api';
 
 import logoImg from '../../assets/logo.png';
 import Button from '../../components/Button';
